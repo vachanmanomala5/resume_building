@@ -1,0 +1,45 @@
+{
+  "basics":{
+    "photo":"download.jpg",
+    "name":"dcr",
+    "phone":"8473895729",
+    "email":"dcr@gmail.com"
+},
+"skills":[
+  {
+    "name":"programming languages",
+    "value":"C,C++,JAVA"
+  },
+  {
+     "name":"operating system",
+      "value":"windows,Linux"
+  },
+  {
+    "name":"Web technologies",
+     "value":"html,css,Python"
+  }
+],
+ "education":[
+  {
+    "course":"B.Tech(CSE)",
+    "college":[
+      "SVIT","2015-2019","80%"
+    ]
+  },
+   {
+     "course":"Intermediate(MPC)",
+      "college":[
+         "Narayana Jr college","2013-2015","92%"
+      ]
+   },
+   {
+     "course":"SSC",
+      "college":[
+        "PTS","2012-2013","92%"
+      ]
+   }
+ ],
+ "paragraph": {
+    "Career Objective":"To enhance and improve my technical skills"
+ }
+}
